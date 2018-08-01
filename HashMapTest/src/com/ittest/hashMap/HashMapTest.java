@@ -24,6 +24,8 @@ public class HashMapTest {
 		
 		System.out.println(users2);
 		
+		System.out.println("git测试2");
+		
 	}
 	
 	public static HashMap<Integer, User> sortHashMap(HashMap<Integer, User> map) {
